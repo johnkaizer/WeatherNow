@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
    EditText etCity, etCountry;
    TextView tvResults;
    private  final String url="http://api.openweathermap.org/data/2.5/weather";
-   private  final String appid = " ";
+   private  final String appid = "ddb665eba7ed17f1f1955530fe818444";
    DecimalFormat df= new DecimalFormat("#.##");
     @Override
     protected void onCreate(Bundle savedInstanceState) {
