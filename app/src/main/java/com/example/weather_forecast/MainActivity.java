@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
         String city =etCity.getText().toString().trim();
         String country =etCountry.getText().toString().trim();
         if (city.equals("")){
-            tvResults.setText("city field cannot be empty");
+            tvResults.setText("city field cannot be empty enter a city");
         }else{
             if (!country.equals("")){
                 tempurl= url + "?q="+ city + "," + country + "&appid=" + appid;
