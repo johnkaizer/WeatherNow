@@ -29,7 +29,7 @@
                 android:gravity="center"
                 android:text="WEATHER FORECAST"
                 android:textColor="@color/black"
-                android:textSize="28sp"
+                android:textSize="25sp"
                 android:textStyle="bold"/>
         </LinearLayout>
     </androidx.cardview.widget.CardView>
