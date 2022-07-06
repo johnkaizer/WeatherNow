@@ -1,4 +1,5 @@
 # WeatherNow
+# WeatherNow is a simple weather forecast application written with java.
 ## Tech Stack
 
 #### Volley Library
